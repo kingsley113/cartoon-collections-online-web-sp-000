@@ -19,5 +19,5 @@ def find_the_cheese# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
-test_names = ["Amy", "Bob", "Charlie", "Dave", "Eric", "Frank"]
-roll_call_dwarves(test_names)
+test_names = ["amy", "bob", "charlie", "dave", "eric", "frank"]
+summon_captain_planet(test_names)
